@@ -24,8 +24,8 @@
 &lt;h3 id=&#34;множества-и-отображения&#34;&gt;Множества и отображения&lt;/h3&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Множества и операции над ними. Формулы де Моргана. (&lt;a href=&#34;http://kolpakov.spb.ru/1sem/data/mnozhestva/&#34; target=&#34;_blank&#34;&gt;ответ&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Множество всех &amp;laquo;хороших&amp;raquo; множеств и парадокс доброго брадобрея. (&lt;a href=&#34;http://kolpakov.spb.ru/1sem/data/bradobrei/&#34; target=&#34;_blank&#34;&gt;ответ&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Множества и операции над ними. Формулы де Моргана. (&lt;a href=&#34;http://kolpakov.spb.ru/1sem/data/mnozhestva/&#34;&gt;ответ&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Множество всех &amp;laquo;хороших&amp;raquo; множеств и парадокс доброго брадобрея. (&lt;a href=&#34;http://kolpakov.spb.ru/1sem/data/bradobrei/&#34;&gt;ответ&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Отображение, функция. Инъекция, сюръекция, биекция. Композиция, её свойства. Обратное отображение. (ответ&amp;lt;)&lt;/li&gt;
 &lt;li&gt;Равномощность. Теорема Кантора-Бернштейна. Примеры.  (ответ)&lt;/li&gt;
 &lt;li&gt;Построение биекции между множествами $ [0;1] \cup [2;4]$ и $[0;1] \cup [2;3] \cup [4;5] $.  (ответ)&lt;/li&gt;
@@ -89,7 +89,7 @@
 
 &lt;h2 id=&#34;схема-вложенности-теорем&#34;&gt;Схема вложенности теорем&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;Вероятно, этот раздел не полон; Если у вас есть идеи, как его улучшить, &lt;a href=&#34;http://vk.com/dokel1899&#34; target=&#34;_blank&#34;&gt;напишите&lt;/a&gt; мне об этом.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Вероятно, этот раздел не полон; Если у вас есть идеи, как его улучшить, &lt;a href=&#34;http://vk.com/dokel1899&#34;&gt;напишите&lt;/a&gt; мне об этом.&lt;/em&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Простейшие (&lt;a href=&#34;http://kolpakov.spb.ru/images/1semgraph/mathinduction.png&#34;&gt;смотреть .png&lt;/a&gt;, &lt;a href=&#34;http://kolpakov.spb.ru/images/1semgraph/mathinduction.graphml&#34;&gt;скачать.graphml&lt;/a&gt;)&lt;/li&gt;
@@ -97,15 +97,15 @@
 &lt;li&gt;Функции и производные (&lt;a href=&#34;http://kolpakov.spb.ru/images/1semgraph/hardcorepart.png&#34;&gt;смотреть .png&lt;/a&gt;, &lt;a href=&#34;http://kolpakov.spb.ru/images/1semgraph/hardcorepart.graphml&#34;&gt;скачать.graphml&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;конспекты-в-хронологическом-порядке&#34;&gt;Конспекты в хронологическом порядке&lt;/h2&gt;
+&lt;h2 id=&#34;конспекты-лекций&#34;&gt;Конспекты лекций&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Вводная лекция по множествам
+&lt;li&gt;Множества
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kolpakov.spb.ru/1sem/data/mnozhestva/&#34; target=&#34;_blank&#34;&gt;Базовые понятия, закон де-Моргана&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kolpakov.spb.ru/1sem/data/bradobrei/&#34; target=&#34;_blank&#34;&gt;Парадокс Рассела&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kolpakov.spb.ru/1sem/data/otobrazhenia/&#34; target=&#34;_blank&#34;&gt;Отображения&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;http://kolpakov.spb.ru/1sem/data/mnozhestva/&#34;&gt;Базовые понятия, закон де-Моргана&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kolpakov.spb.ru/1sem/data/bradobrei/&#34;&gt;Парадокс Рассела (Добрый брадобрей)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kolpakov.spb.ru/1sem/data/otobrazhenia/&#34;&gt;Отображения&lt;/a&gt;
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -113,22 +113,21 @@
 &lt;h2 id=&#34;вопросы-к-экзамену&#34;&gt;Вопросы к экзамену&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kolpakov.spb.ru/1sem/quest/1617/&#34; target=&#34;_blank&#34;&gt;2016/2017 учебный год&lt;/a&gt; (&lt;a href=&#34;http://kolpakov.spb.ru/docs/quest_1sem1617.docx&#34;&gt;скачать .docx&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kolpakov.spb.ru/1sem/quest/1617/&#34;&gt;2016/2017 учебный год&lt;/a&gt; (&lt;a href=&#34;http://kolpakov.spb.ru/docs/quest_1sem1617.docx&#34;&gt;скачать .docx&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;задачи-для-самостоятельной-подготовки&#34;&gt;Задачи для самостоятельной подготовки&lt;/h2&gt;
+&lt;h2 id=&#34;практические-задачи&#34;&gt;Практические задачи&lt;/h2&gt;
 
-&lt;div class=&#34;admonition note&#34;&gt;
-&lt;p class=&#34;admonition-title&#34;&gt;Раздел пуст&lt;/p&gt;
-&lt;p&gt;//TODO&lt;/p&gt;
+&lt;div class=&#34;admonition note&#34; style=&#34;background: #757575;&#34;&gt;
+&lt;p style=&#34;font-size: 16px; color: #424242;&#34;&gt;&lt;b&gt;//TODO&lt;/b&gt; Раздел пуст&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>Множества и операции над ними. Формулы де Моргана.</title>
+      <title>Введение во множества</title>
       <link>http://kolpakov.spb.ru/1sem/data/mnozhestva/</link>
-      <pubDate>Sun, 14 Feb 2016 16:11:58 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kolpakov.spb.ru/1sem/data/mnozhestva/</guid>
       <description>
@@ -142,10 +141,10 @@
 &lt;li&gt;Если множество $X$ является частью множества $Y$, то записывают $X \subset Y$ (содержится).&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Нельзя писать $X \in Y$ для множеств одного порядка и не любое свойство может задавать множество &amp;ndash; иллюстрацией этого является &lt;a href=&#34;http://kolpakov.spb.ru/1sem/data/bradobrei/&#34; target=&#34;_blank&#34;&gt;парадокc Брадобрея&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Нельзя писать $X \in Y$ для множеств одного порядка и не любое свойство может задавать множество &amp;ndash; иллюстрацией этого является &lt;a href=&#34;http://kolpakov.spb.ru/1sem/data/bradobrei/&#34;&gt;парадокc Брадобрея&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Со строгостью математических обозначений для знаков $ \subset, \subseteq, \subsetneq $ существует некоторая неопределённость. Смотрите статью &lt;a href=&#34;No page found with path or logical name &#34;/data/wtf-wrote-here.md&#34;.
-&#34; target=&#34;_blank&#34;&gt;&amp;laquo;Неопределённость математических терминов и обозначений&amp;raquo;&lt;/a&gt;.&lt;/p&gt;
+&#34;&gt;&amp;laquo;Неопределённость математических терминов и обозначений&amp;raquo;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;операции-над-множествами&#34;&gt;Операции над множествами&lt;/h2&gt;
 
@@ -176,56 +175,9 @@ $ x \in \neg (\cup_{i=0}^n A_i) \Rightarrow x \notin  \cup_{i=0}^n A_i \Rightarr
     </item>
     
     <item>
-      <title>Отображения</title>
-      <link>http://kolpakov.spb.ru/1sem/data/otobrazhenia/</link>
-      <pubDate>Sun, 14 Feb 2016 16:11:58 +0530</pubDate>
-      
-      <guid>http://kolpakov.spb.ru/1sem/data/otobrazhenia/</guid>
-      <description>
-
-&lt;h2 id=&#34;базовые-понятия&#34;&gt;Базовые понятия&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Отображение&lt;/strong&gt; &amp;ndash; соответствие между элементами двух множеств, установленное по какому-либо правилу, такое, что &lt;em&gt;каждому&lt;/em&gt; элементу одного множества ставится в соответствие некоторый элемент другого.&lt;/p&gt;
-
-&lt;p&gt;Если отображение $f$ переводит элементы множества $X$ во множество $Y$, то:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Это записывают как $f: X \rightarrow Y$.&lt;/li&gt;
-&lt;li&gt;$X$ &amp;ndash; область задания отображения, обозначается $D(f)$&lt;/li&gt;
-&lt;li&gt;$Y$ &amp;ndash; область значений отображения, обозначается $E(f)$&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Функция&lt;/strong&gt; &amp;ndash; отображение, которое совершается из некого множества во множество чисел (не общепринято, но условились использовать такое обозначение).&lt;/p&gt;
-
-&lt;h2 id=&#34;инъекция-сюръекция-биекция&#34;&gt;Инъекция, сюръекция, биекция&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Инъекция&lt;/strong&gt; (вложение) &amp;mdash; такое отображение $f$, что $f(x_1) = f(x_2) \Leftrightarrow x_1 = x_2$, иными словами, каждому элементу области задания соответствует &lt;i&gt;ровно&lt;/i&gt; один элемент области значений.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Сюръекция&lt;/strong&gt; (отображение &lt;strong&gt;&lt;em&gt;на&lt;/em&gt;&lt;/strong&gt; множество) &amp;mdash; такое отображение $f$, что $\forall x \in E(f) \text{ }\exists y \in D(f): y = f(x)$, иными словами, каждому элементу области значений соответствует &lt;em&gt;хотя бы&lt;/em&gt; один элемент области задания.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Биекция&lt;/strong&gt; (взаимнооднозначное отображение) &amp;mdash; отображение, являющееся и  сюръекцией, и инъекцией.
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;композиция&#34;&gt;Композиция&lt;/h2&gt;
-
-&lt;p&gt;Композиция &amp;ndash; применение одной функции $f$ к результату другой функции $g$, обозначается $f \circ g$.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Композиция не коммутативна &amp;ndash; если $f(x) = x^2$, $g(x) = 2*x$, тогда $f \circ g (x) = 4*x^2$, а $g \circ f (x) = 2*x^2$&lt;/li&gt;
-&lt;li&gt;Композиция ассоциативна &amp;ndash;  $(f \circ g) \circ h = f \circ (g \circ h)$&lt;/li&gt;
-&lt;li&gt;Если $f = id$ (тождественное отображение, отображающее каждый элемент в себя самого), то $g \circ f = g$.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;обратное-отображение&#34;&gt;Обратное отображение&lt;/h2&gt;
-
-&lt;p&gt;Обратное отображение к функции $f$ обозначают $f^{-1}$. Это такое отображение, что $f \circ f^{-1} = f^{-1} \circ f = id$.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Парадокс Рассела</title>
       <link>http://kolpakov.spb.ru/1sem/data/bradobrei/</link>
-      <pubDate>Sun, 14 Feb 2016 16:11:58 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kolpakov.spb.ru/1sem/data/bradobrei/</guid>
       <description>
@@ -251,6 +203,53 @@ $ x \in \neg (\cup_{i=0}^n A_i) \Rightarrow x \notin  \cup_{i=0}^n A_i \Rightarr
 &lt;/ul&gt;
 
 &lt;p&gt;Парадок разрешается тем, что такой брадобрей не может существовать (подобно расселовскому множеству).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Отображения</title>
+      <link>http://kolpakov.spb.ru/1sem/data/otobrazhenia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kolpakov.spb.ru/1sem/data/otobrazhenia/</guid>
+      <description>
+
+&lt;h2 id=&#34;базовые-понятия&#34;&gt;Базовые понятия&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Отображение&lt;/strong&gt; &amp;ndash; соответствие между элементами двух множеств, установленное по какому-либо правилу, такое, что &lt;em&gt;каждому&lt;/em&gt; элементу одного множества ставится в соответствие некоторый элемент другого.&lt;/p&gt;
+
+&lt;p&gt;Если отображение $f$ переводит элементы множества $X$ во множество $Y$, то:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Это записывают как $f: X \rightarrow Y$.&lt;/li&gt;
+&lt;li&gt;$X$ &amp;ndash; область задания отображения, обозначается $D(f)$&lt;/li&gt;
+&lt;li&gt;$Y$ &amp;ndash; область значений отображения, обозначается $E(f)$&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Функция&lt;/strong&gt; &amp;ndash; отображение, которое совершается из некого множества во множество чисел (не общепринято, но условились использовать такое обозначение).&lt;/p&gt;
+
+&lt;h2 id=&#34;инъекция-сюръекция-биекция&#34;&gt;Инъекция, сюръекция, биекция&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Инъекция&lt;/strong&gt; (вложение) &amp;mdash; такое отображение $f$, что $f(x_1) = f(x_2) \Leftrightarrow x_1 = x_2$, иными словами, каждому элементу области задания соответствует &lt;em&gt;ровно&lt;/em&gt; один элемент области значений.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Сюръекция&lt;/strong&gt; (отображение &lt;strong&gt;&lt;em&gt;на&lt;/em&gt;&lt;/strong&gt; множество) &amp;mdash; такое отображение $f$, что $\forall x \in E(f) \text{ }\exists y \in D(f): y = f(x)$, иными словами, каждому элементу области значений соответствует &lt;em&gt;хотя бы&lt;/em&gt; один элемент области задания.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Биекция&lt;/strong&gt; (взаимнооднозначное отображение) &amp;mdash; отображение, являющееся и  сюръекцией, и инъекцией.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;композиция&#34;&gt;Композиция&lt;/h2&gt;
+
+&lt;p&gt;Композиция &amp;ndash; применение одной функции $f$ к результату другой функции $g$, обозначается $f \circ g$.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Композиция не коммутативна &amp;ndash; если $f(x) = x^2$, $g(x) = 2*x$, тогда $f \circ g (x) = 4*x^2$, а $g \circ f (x) = 2*x^2$&lt;/li&gt;
+&lt;li&gt;Композиция ассоциативна &amp;ndash;  $(f \circ g) \circ h = f \circ (g \circ h)$&lt;/li&gt;
+&lt;li&gt;Если $f = id$ (тождественное отображение, отображающее каждый элемент в себя самого), то $g \circ f = g$.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;обратное-отображение&#34;&gt;Обратное отображение&lt;/h2&gt;
+
+&lt;p&gt;Обратное отображение к функции $f$ обозначают $f^{-1}$. Это такое отображение, что $f \circ f^{-1} = f^{-1} \circ f = id$.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,204 @@
+/* Author: DoKel */
+
+.admonition {
+	background: #ffe082;
+	color: #212121;
+}
+
+.palette-primary-conspectus .footer,.palette-primary-conspectus .header {
+	background: #212121;
+	font-family: 'Lora', sans-serif;
+}
+
+.stretch .title {
+	display: inline-block;
+}
+
+@media only screen and (max-width: 959px) {
+.palette-primary-conspectus .project {
+    box-shadow: 0 1.5px 3px rgba(0,0,0,.24),0 3px 8px rgba(0,0,0,.05);
+    background: #212121;
+    color: #fff;
+}
+}
+
+.palette-accent-conspectus .article h1, .article h2 {
+	color: #212121;
+	font-family: 'Lora', sans-serif;
+}
+
+.palette-accent-conspectus .article a {
+	color: #212121;
+}
+
+.palette-accent-conspectus .article a:focus, .article a:hover {
+	color: #01579b;
+}
+
+.palette-accent-conspectus .drawer .toc a.current, .drawer .toc a:focus, .drawer .toc a:hover {
+	color: #01579b;
+}
+
+.palette-accent-conspectus .drawer .anchor a {
+    border-left: 2px solid #01579b;
+}
+
+@media only screen and (min-width: 960px) {
+.project .logo {
+	display: none;
+}
+	
+header .stretch .logo {
+	display: inline-block;
+}
+	
+header .stretch .logo img {
+	height: 40px;
+	border-radius: 40px; /* Радиус скругления */
+    border: 0px; /* Параметры рамки */
+    box-shadow: 0 0 7px red; /* Параметры тени */
+}
+	
+header .stretch .logo {
+	margin-right: 28px;
+}
+}
+
+@media only screen and (max-width: 959px) {
+.project .logo {
+	background: none;
+	display: table-row;
+	padding: 0;
+	margin: 0;
+	height: 80px;
+}
+.project .logo img, .project:focus .logo img, .project:hover .logo img{
+	background: none;
+	box-shadow: 0 0 7px red; /* Параметры тени */
+}
+	
+.project .logo img {
+	width: 48px;
+	height: 48px;
+	margin-left: 107px;
+	margin-right: 107px;
+	margin-top: 20px;
+}
+	
+header .stretch .logo{
+	display: none;
+}
+}
+
+.project .name{
+	display: table-row;
+	text-align: center;
+	margin-top: 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 95px;
+}
+
+.project .logo + .name{
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+}
+
+.project .name strong {
+	display: block;
+}
+
+.project .banner{
+	padding: 0;
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.drawer .scrollable {
+	position: static;
+	height: auto;
+	top: 0;
+}
+
+@media only screen and (max-width: 959px) {
+.drawer .scrollable {
+	position: absolute;
+	top: 175px;
+}
+}
+
+.project {
+	height: auto;
+}
+
+@media only screen and (max-width: 959px) {
+.project {
+	height: 175px;
+}
+}
+
+.palette-accent-conspectus .banner hr {
+	border-top: 1.5px solid;
+	border-color: #01579b;
+	margin-top: 10px;
+}
+
+@media only screen and (max-width: 959px) {
+.palette-accent-conspectus .banner hr {
+	display: none;
+}
+}
+
+.icon-menu:before {
+    content: "";
+}
+
+footer .stretch .title {
+	display: table-cell;
+}
+
+.palette-primary-conspectus .pagination {
+	background: #212121;
+}
+
+.pagination {
+	background: #212121;
+}
+
+.pagination .stretch .title{
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+.palette-accent-conspectus .drawer .anchor a{
+	border-left: 0;
+}
+
+.palette-accent-conspectus .drawer .anchor a:before{
+	content: '¶. ';
+}
+
+.videos{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	
+}
+
+.videos .video{
+	width: 320px;
+	height: 230px;
+	text-align: center;
+	margin: 15px;
+}
+
+
+.videos .video .title{
+	font-size: 20px;
+	font-family: 'Lora', sans-serif;
+}

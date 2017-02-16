@@ -3,7 +3,12 @@
   
   <url>
     <loc>http://kolpakov.spb.ru/</loc>
-    <lastmod>2016-02-14T16:11:58+05:30</lastmod>
+    <lastmod>2016-02-14T16:11:58+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kolpakov.spb.ru/stories/</loc>
+    <lastmod>2016-02-14T16:11:58+05:00</lastmod>
   </url>
   
   <url>
@@ -12,7 +17,17 @@
   </url>
   
   <url>
+    <loc>http://kolpakov.spb.ru/2sem/discret/</loc>
+    <lastmod>2016-02-14T16:11:58+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kolpakov.spb.ru/</loc>
+    <lastmod>2016-02-14T16:11:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kolpakov.spb.ru/filedropper/</loc>
     <lastmod>2016-02-14T16:11:58+05:30</lastmod>
   </url>
   
@@ -33,17 +48,18 @@
   
   <url>
     <loc>http://kolpakov.spb.ru/1sem/data/mnozhestva/</loc>
-    <lastmod>2016-02-14T16:11:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://kolpakov.spb.ru/1sem/data/otobrazhenia/</loc>
-    <lastmod>2016-02-14T16:11:58+05:30</lastmod>
+    <loc>http://kolpakov.spb.ru/2sem/data/integral_riman/</loc>
   </url>
   
   <url>
     <loc>http://kolpakov.spb.ru/1sem/data/bradobrei/</loc>
-    <lastmod>2016-02-14T16:11:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kolpakov.spb.ru/1sem/data/otobrazhenia/</loc>
   </url>
   
 </urlset>

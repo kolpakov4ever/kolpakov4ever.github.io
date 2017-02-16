@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+
+
+
+
+ <html class="no-js"> 
+
+		<head lang="ru-Ru">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=10" />
+			<title>Интеграл по Риману - Матанализ. Колпаков. Вечность.</title>
+	<meta name="generator" content="Hugo 0.16" />
+
+	
+		<meta name="description" content="Сайт о матанализе вообще и об одном выдающемся лекторе ЛЭТИ в частности">
+	
+	<link rel="canonical" href="http://kolpakov.spb.ru/2sem/data/integral_riman/">
+	
+		<meta name="author" content="DoKel">
+	
+
+	<meta property="og:url" content="http://kolpakov.spb.ru/2sem/data/integral_riman/">
+	<meta property="og:title" content="Матанализ. Колпаков. Вечность.">
+	<meta property="og:image" content="http://kolpakov.spb.ru/images/xi.png">
+	<meta name="apple-mobile-web-app-title" content="Матанализ. Колпаков. Вечность.">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+	<link rel="shortcut icon" type="image/x-icon" href="http://kolpakov.spb.ru/images/favicon.ico">
+	<link rel="icon" type="image/x-icon" href="http://kolpakov.spb.ru/images/favicon.ico">
+
+
+	<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<link rel="stylesheet" href="http://kolpakov.spb.ru/fonts/font-awesome/css/font-awesome.min.css">
+
+
+	<style>
+			@font-face {
+		font-family: 'Icon';
+		src: url('http://kolpakov.spb.ru/fonts/icon.eot');
+		src: url('http://kolpakov.spb.ru/fonts/icon.eot')
+					 format('embedded-opentype'),
+			 url('http://kolpakov.spb.ru/fonts/icon.woff')
+					 format('woff'),
+			 url('http://kolpakov.spb.ru/fonts/icon.ttf')
+					 format('truetype'),
+			 url('http://kolpakov.spb.ru/fonts/icon.svg')
+					 format('svg');
+		font-weight: normal;
+		font-style: normal;
+			}
+	</style>
+
+	<link rel="stylesheet" href="http://kolpakov.spb.ru/stylesheets/application.css">
+	<link rel="stylesheet" href="http://kolpakov.spb.ru/stylesheets/temporary.css">
+	<link rel="stylesheet" href="http://kolpakov.spb.ru/stylesheets/palettes.css">
+	<link rel="stylesheet" href="http://kolpakov.spb.ru/stylesheets/highlight/highlight.css">
+	<link rel="stylesheet" href="http://kolpakov.spb.ru/stylesheets/conspectus-additions.css">
+
+	
+	
+	
+	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,700|Roboto&#43;Mono">
+	<style>
+	body, input {
+		font-family: 'Roboto', Helvetica, Arial, sans-serif;
+	}
+	pre, code {
+		font-family: 'Roboto Mono', 'Courier New', 'Courier', monospace;
+	}
+	</style>
+
+	
+	
+	<script src="http://kolpakov.spb.ru/javascripts/modernizr.js"></script>
+
+	
+
+
+	<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+	<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({
+			tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+		});
+	</script>
+	<style>
+		.MathJax span{color: inherit;}
+	</style>
+
+
+
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({
+			google_ad_client: "ca-pub-5767457114717291",
+		enable_page_level_ads: true
+	});
+	</script>
+
+			
+</head>
+<body class="palette-primary-conspectus palette-accent-conspectus">
+
+
+
+
+<div class="backdrop">
+	<div class="backdrop-paper"></div>
+</div>
+
+<input class="toggle" type="checkbox" id="toggle-drawer">
+<input class="toggle" type="checkbox" id="toggle-search">
+<label class="toggle-button overlay" for="toggle-drawer"></label>
+
+<header class="header">
+	<nav aria-label="Header">
+	<div class="bar default">
+	<div class="button button-menu" role="button" aria-label="Menu">
+		<label class="toggle-button icon icon-menu" for="toggle-drawer">
+		<i class="fa fa-bars" aria-hidden="true"></i>
+		</label>
+	</div>
+		
+	<div class="stretch">
+	
+		<div class="logo">
+			<a href="/"><img src="http://kolpakov.spb.ru/images/xi.png"></a>
+		</div>
+	
+		
+		<div class="title">
+			<a href="/">Матанализ. Колпаков. Вечность.</a>
+		</div>
+	</div>
+	
+
+		
+	</div>
+</nav>
+</header>
+
+<main class="main">
+	<div class="drawer">
+		 
+			
+
+<nav aria-label="Navigation">
+ 
+	
+ 
+	
+		<a class="project" href="/2sem/">
+		<div class="banner" >
+
+			
+			<div class="logo">
+				<img src="http://kolpakov.spb.ru/images/xi.png">
+			</div>
+			
+			<div class="name">
+				<strong>
+					Материалы второго семестра
+				</strong>
+				<hr>
+				<em style="font-size: 0.8em;"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Назад к категории</em>
+			</div>
+		</div>
+		</a>
+	
+ 
+	
+
+
+<div class="scrollable">
+	<div class="wrapper">
+	<div class="toc">
+			
+			
+		  
+			
+		  
+			
+				<ul>
+				
+					
+				
+					
+				
+					  
+					
+					<li><a  class="current"
+						   title="Интеграл по Риману" 
+							href="/2sem/data/integral_riman/"
+						>
+						<i class="fa fa-file-text" aria-hidden="true"></i>
+						Интеграл по Риману 
+					</a>
+					
+						<ul id="scrollspy">
+						</ul>
+					
+					</li>
+					
+				
+				</ul>
+			
+		  
+			
+		  
+			
+		  
+			
+		  
+	</div>
+	</div>
+</div>
+</nav>
+
+		
+	</div>
+
+	<article class="article">
+		<div class="wrapper">
+			<h1>Интеграл по Риману </h1>
+
+			
+
+<h2 id="введение">Введение</h2>
+
+<p>Несмотря на то, что весь курс школьной геометрии посвящён работе с площадями, вероятно, каждый из слушателей затруднится дать строгий ответ на вопрос &ndash; <strong>что же такое площадь</strong>? Вопрос это очень сложный, и окончательный ответ на него дал только Лебег, обобщив интеграл Римана. Интересный факт заключается в том, что, как оказалось, родственное понятие для площади &ndash; вероятность.</p>
+
+<p>Чтобы хоть на что-то опереться, мы можем сходу дать своё определение для площади прямоугольника &ndash; это есть произведение его длины и ширины. Теперь мы можем попытаться свести площади сложных фигур к площадям прямоугольника. В этом нам и поможет интеграл Римана.</p>
+
+<h2 id="риманова-сумма">Риманова сумма</h2>
+
+<p>Мы хотим найти площадь под графиком некоторой функции $f$ на промежутке $[a;b]$. Разделим этот промежуток на произвольные части с помощью $n$ границ вида
+$$(x_0 = a) &lt; x_1 &lt; &hellip; &lt; x_{n - 1} &lt; (x_n = b)$$
+Такое множество $\{x_k\}$ &ndash; <em>разбиение</em>.</p>
+
+<p>Введём <em>оснащение этого разбиения</em>. Это множество $\{ \xi_k \}_{k=1}^n$, таких, что $x_{k-1} \leqslant \xi_k \leqslant x_k$, иными словами, каждая точка $\xi$ взята произвольно на одном из промежутков.</p>
+
+<p>Тогда Риманова (интегральная) сумма $\sigma_R := \sum_{i=1}^{n} f(\xi_i) (x_i - x_{i-1})$.</p>
+
+<p>Визуально это сумма площадей прямоугольников, где $f(\xi_i)$ &ndash; высота прямоугольника, а $(x_i - x_{i-1})$ &ndash; ширина. Несложно заметитить, что такая совокупность прямоугольников будет заметно отличаться от фигуры под графиком. Как же приблизить Риманову сумму к желаемому результату?</p>
+
+<p>Очевидное предположение, что нужно устремить $n \to \infty$. Оно не верно. Так, если $\forall i \in [0;n-1] x_i \in [a; \frac{a+b}{2}]$, очевидно, что даже при $n \to \infty$ мы нисколько не приблизимся к подобию фигуры под графиком.</p>
+
+<p>Значит, нам нужно потребовать, чтобы точки распределялись по промежутку более равномерно. Введём для этого специальную характеристику &ndash; <em>мелкость разбиения</em>:
+$$\lambda \left( \{ x_k \}_{k=0}^n \right) := max_{i=1}^n (x_i - x_{i-1})$$
+Если мелкость разбиения будет стремиться к нулю, то</p>
+
+<ul>
+<li>Количество точек будет необходимо стремиться к бесконечности</li>
+<li>Точки будут распределяться по промежутку достаточно равномерно</li>
+</ul>
+
+<h2 id="определение-интеграла">Определение интеграла</h2>
+
+<p>В упрощённом виде определение может быть записано как
+$$ \int_{a}^{b} f(x)dx := \lim_{\lambda \left( \{ x_k \}_{k=0}^n \right) \to 0} (\sum_{i=1}^{n} f(\xi_i) (x_i - x_{i-1}))$$
+Эта запись не является достаточно строгой по двум прияинам:</p>
+
+<ul>
+<li>Она умалчивает о происхождении наборов $\{x_k\}$ и $\{\xi_k\}$</li>
+<li>Значение суммы не зависит напрямую от мелкости разбиения. Несложно привести пример двух сумм Римана, которые будут иметь разные значения при одинаковой мелкости.</li>
+</ul>
+
+<p>Более точное определение:</p>
+
+<p>$$ \int_{a}^{b} f(x)dx = A :\Leftrightarrow$$
+$$ \forall \epsilon&gt;0 \text{ } \exists \delta=\delta(\epsilon)&gt;0 :$$
+$$\text{Для } \forall \{x_k\}_{k=1}^n \text{ такого, что } \forall k\text{ }x_k \in [a;b] \text{ и } \lambda\{x_k\} &lt; \delta$$
+$$\text{И для } \forall \{\xi_k\}_{k=1}^n \text{, где } x_{k-1} \leqslant \xi_k \leqslant x_k$$
+$$\text{Верно неравенство:}$$
+$$|A -  (\sum_{i=1}^{n} f(\xi_i) (x_i - x_{i-1}))| &lt; \epsilon$$</p>
+
+<p>Интеграл и есть <strong>площадь фигуры под графиком на промежутке $[a;b]$</strong>.</p>
+
+<h2 id="зачем-нужно-оснащение">Зачем нужно оснащение</h2>
+
+<p>Вероятно, этот вопрос мог заинтересовать слушателя, проходившего интегралы в школе, где в качестве оснащения выбираются для определённости всегда правые границы. Требование &laquo;условие должно выполняться для любого выбранного оснащения&raquo; может серьёзно усложнять работу с определением. Тем не менее, это требование необходимо, чтобы некоторые &laquo;плохие&raquo; функции, у которых значение суммы Римана от выбора оснащения меняется просто не имели суммы по определению. Допущение существования у них суммы может привести к парадоксальным (и неверным) выводам.</p>
+
+<div class="admonition note">
+<p style="font-size: 16px;"><i class="fa fa-smile-o" aria-hidden="true"></i> Оставшася часть пары была посвящена рассказу историй, например <a href="/stories/#bwy2o4Adlfo">про Клейна и Гильберта</a>. Было весело))</p>
+</div>
+
+<h2 id="непротиворечивость">Непротиворечивость</h2>
+
+<p>Для полной уверенности в том, что мы всё делаем верно, нужно доказать, что новое определение площади не противоречит старому, а именно &ndash; с помощью определения Римана можно посчитать площадь прямоугольника, и она будет совпадать со значением, полученным по формуле &laquo;длина на ширину&raquo;. Данное задание предлагалось для самостоятельного решения на тесте в виде интегрирования константной функции. Ниже предлагается разбор этого задания в общем виде.</p>
+
+<p>$$ \int_a^b C * dx = \sum_{i=1}^{n} f(\xi_i) (x_i - x_{i-1}) = (1)$$
+$$ \text{Так как } \forall x \text{ } f(x)=C $$
+$$ (1) = \sum_{i=1}^{n} C (x_i - x_{i-1}) = C * \sum_{i=1}^{n} (x_i - x_{i-1}) = (2)$$
+$$ \text{Рассмотрим полученную сумму: } \sum_{i=1}^{n} (x_i - x_{i-1}) = $$
+$$ (x_0 - x_1) + (x_1 - x_2) + &hellip; + (x_{n-2} - x_{n-1}) + (x_{n-1} - x_n) = $$
+$$ (x_0 + x_1 + &hellip; + x_{n-2} + x_{n-1}) - (x_1 + &hellip; x_{n-1} + x_n) = $$
+$$ x_0 + (x_1 - x_1) + &hellip; + (x_{n-1} - x_{n-1}) - x_n = a - b$$
+$$ \text{ Т.е. } (2) = C * (a-b)$$</p>
+
+<p>Здесь $(a-b)$ &ndash; ширина прямоугольника, а $C$ &ndash; его высота. Ч.Т.Д.</p>
+
+
+			<footer>
+				<hr>
+<aside class="copyright" role="note">
+	
+	<span style="
+		-webkit-transform: scaleX(-1);
+		-moz-transform: scaleX(-1);
+		-o-transform: scaleX(-1);
+		-khtml-transform: scaleX(-1);
+		-ms-transform: scaleX(-1);
+		transform: scaleX(-1);
+		display: inline-block;
+	">
+		&copy;</span> 2017 DoKel
+	
+	<br>
+	Сайт построен с помощью
+	<a href="https://www.gohugo.io" target="_blank">Hugo</a>
+	на основе
+	<a href="http://github.com/digitalcraftsman/hugo-material-docs" target="_blank">Material</a>
+	темы.
+
+		<br>Связаться с автором:  
+		
+			<a href="https://vk.com/dokel1899" target="_blank" title="ВКонтакте" style="border-bottom:none;">
+				<i class="fa fa-vk fa-2x" aria-hidden="true"></i>
+			</a>
+		
+
+		
+			<a href="https://github.com/dokel" target="_blank" title="GitHub" style="border-bottom:none;">
+				<i class="fa fa-github fa-2x" aria-hidden="true"></i>
+			</a>
+		
+
+		
+			<a href="mailto:dokel.android@gmail.com" title="Email of dokel.android@gmail.com" style="border-bottom:none;">
+				<i class="fa fa-envelope fa-2x" aria-hidden="true"></i>
+			</a>
+		
+
+
+</aside>
+			</footer>
+		</div>
+	</article>
+	
+	
+
+
+<footer class="footer">
+	
+
+</footer>
+
+	<div class="results" role="status" aria-live="polite">
+		<div class="scrollable">
+			<div class="wrapper">
+				<div class="meta"></div>
+				<div class="list"></div>
+			</div>
+		</div>
+	</div>
+</main>
+
+    <script>
+    
+      var base_url = '';
+      var repo_id  = '';
+    
+    </script>
+
+    <script src="http://kolpakov.spb.ru/javascripts/application.js"></script>
+    
+
+    <script>
+      /* Add headers to scrollspy */
+      var headers   = document.getElementsByTagName("h2");
+      var scrollspy = document.getElementById('scrollspy');
+
+      if(scrollspy) {
+        if(headers.length > 0) {
+          for(var i = 0; i < headers.length; i++) {
+            var li = document.createElement("li");
+            li.setAttribute("class", "anchor");
+
+            var a  = document.createElement("a");
+            a.setAttribute("href", "#" + headers[i].id);
+            a.setAttribute("title", headers[i].innerHTML);
+            a.innerHTML = headers[i].innerHTML;
+
+            li.appendChild(a)
+            scrollspy.appendChild(li);
+          }
+        } else {
+          scrollspy.parentElement.removeChild(scrollspy)
+        }
+
+
+        /* Add permanent link next to the headers */
+        var headers = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+
+        for(var i = 0; i < headers.length; i++) {
+            var a = document.createElement("a");
+            a.setAttribute("class", "headerlink");
+            a.setAttribute("href", "#" + headers[i].id);
+            a.setAttribute("title", "Permanent link")
+            a.innerHTML = "¶";
+            headers[i].appendChild(a);
+        }
+      }
+    </script>
+
+    
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>
+
