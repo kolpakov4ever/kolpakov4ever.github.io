@@ -406,7 +406,7 @@ $$ \text{Так как } \forall x \text{ } f(x)=C $$
 $$ (1) = \sum_{i=1}^{n} C (x_i - x_{i-1}) = C * \sum_{i=1}^{n} (x_i - x_{i-1}) = (2)$$
 $$ \text{Рассмотрим полученную сумму: } \sum_{i=1}^{n} (x_i - x_{i-1}) = $$
 $$ (x_0 - x_1) + (x_1 - x_2) + &amp;hellip; + (x_{n-2} - x_{n-1}) + (x_{n-1} - x_n) = $$
-$$ (x_0 + x_1 + &amp;hellip; + x_{n-2} + x_{n-1}) - (x_1 + &amp;hellip; x_{n-1} + x_n) = $$
+$$ (x_0 + x_1 + &amp;hellip; + x_{n-2} + x_{n-1}) - (x_1 + &amp;hellip; + x_{n-2} + x_{n-1} + x_n) = $$
 $$ x_0 + (x_1 - x_1) + &amp;hellip; + (x_{n-1} - x_{n-1}) - x_n = a - b$$
 $$ \text{ Т.е. } (2) = C * (a-b)$$&lt;/p&gt;
 
