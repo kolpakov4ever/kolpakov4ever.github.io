@@ -9,18 +9,18 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=10" />
-			<title>Отображения - Матанализ. Колпаков. Вечность.</title>
+			<title>Интеграл по Дарбу - Матанализ. Колпаков. Вечность.</title>
 	<meta name="generator" content="Hugo 0.16" />
 
 	
 		<meta name="description" content="Сайт о матанализе вообще и об одном выдающемся лекторе ЛЭТИ в частности">
 	
-	<link rel="canonical" href="http://kolpakov.spb.ru/1sem/data/otobrazhenia/">
+	<link rel="canonical" href="http://kolpakov.spb.ru/2sem/data/integral_darbu/">
 	
 		<meta name="author" content="DoKel">
 	
 
-	<meta property="og:url" content="http://kolpakov.spb.ru/1sem/data/otobrazhenia/">
+	<meta property="og:url" content="http://kolpakov.spb.ru/2sem/data/integral_darbu/">
 	<meta property="og:title" content="Матанализ. Колпаков. Вечность.">
 	<meta property="og:image" content="http://kolpakov.spb.ru/images/xi.png">
 	<meta name="apple-mobile-web-app-title" content="Матанализ. Колпаков. Вечность.">
@@ -150,7 +150,9 @@
 <nav aria-label="Navigation">
  
 	
-		<a class="project" href="/1sem/">
+ 
+	
+		<a class="project" href="/2sem/">
 		<div class="banner" >
 
 			
@@ -160,15 +162,13 @@
 			
 			<div class="name">
 				<strong>
-					Материалы первого семестра
+					Материалы второго семестра
 				</strong>
 				<hr>
 				<em style="font-size: 0.8em;"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Назад к категории</em>
 			</div>
 		</div>
 		</a>
-	
- 
 	
  
 	
@@ -181,33 +181,24 @@
 			
 		  
 			
+		  
+			
 				<ul>
 				
 					
 				
 					
 				
-					  
-					
-					<li><a 
-						   title="Введение во множества" 
-							href="/1sem/data/mnozhestva/"
-						>
-						<i class="fa fa-file-text" aria-hidden="true"></i>
-						Введение во множества 
-					</a>
-					
-					</li>
 					
 				
 					  
 					
 					<li><a 
-						   title="Парадокс Рассела" 
-							href="/1sem/data/bradobrei/"
+						   title="Интеграл по Риману" 
+							href="/2sem/data/integral_riman/"
 						>
 						<i class="fa fa-file-text" aria-hidden="true"></i>
-						Парадокс Рассела 
+						Интеграл по Риману 
 					</a>
 					
 					</li>
@@ -216,11 +207,11 @@
 					  
 					
 					<li><a  class="current"
-						   title="Отображения" 
-							href="/1sem/data/otobrazhenia/"
+						   title="Интеграл по Дарбу" 
+							href="/2sem/data/integral_darbu/"
 						>
 						<i class="fa fa-file-text" aria-hidden="true"></i>
-						Отображения 
+						Интеграл по Дарбу 
 					</a>
 					
 						<ul id="scrollspy">
@@ -229,9 +220,20 @@
 					</li>
 					
 				
+					  
+					
+					<li><a 
+						   title="Теорема об эквивалентности определений Римана и Дарбу" 
+							href="/2sem/data/riman_eq_darbu/"
+						>
+						<i class="fa fa-file-text" aria-hidden="true"></i>
+						Теорема об эквивалентности определений Римана и Дарбу 
+					</a>
+					
+					</li>
+					
+				
 				</ul>
-			
-		  
 			
 		  
 			
@@ -252,46 +254,43 @@
 
 	<article class="article">
 		<div class="wrapper">
-			<h1>Отображения </h1>
+			<h1>Интеграл по Дарбу </h1>
 
 			
 
-<h2 id="базовые-понятия">Базовые понятия</h2>
+<h2 id="введение">Введение</h2>
 
-<p><strong>Отображение</strong> &ndash; соответствие между элементами двух множеств, установленное по какому-либо правилу, такое, что <em>каждому</em> элементу одного множества ставится в соответствие некоторый элемент другого.</p>
+<p>Вероятно, слушатель уже понял, что риманова сумма, хоть и является первым формальным определением интеграла, всё же достаточна трудна для практического использования &ndash; требуемые для неё условия должны выполняться для любого оснащения $\{\xi_i\}$, коих бесчисленное множество.</p>
 
-<p>Если отображение $f$ переводит элементы множества $X$ во множество $Y$, то:</p>
+<p>В плане практического использования более удобным может быть определение, которое дал Дарбу &ndash; по смыслу оно полностью <a href="/2sem/data/riman_eq_darbu/">эквивалентно</a> определению Римана, но по форме требует от нас равенства не бесчисленного множества сумм, а лишь только двух.</p>
 
-<ul>
-<li>Это записывают как $f: X \rightarrow Y$.</li>
-<li>$X$ &ndash; область задания отображения, обозначается $D(f)$</li>
-<li>$Y$ &ndash; область значений отображения, обозначается $E(f)$</li>
-</ul>
+<h2 id="нижние-и-верхние-суммы">Нижние и верхние суммы</h2>
 
-<p><strong>Функция</strong> &ndash; отображение, которое совершается из некого множества во множество чисел (не общепринято, но условились использовать такое обозначение).</p>
+<p>Пусть на отрезке $[a;b]$ определена функция $f(x)$, и дано разбиение $\{x_i\}_{i=0}^n $ такое, что $a = x_0 &lt; x_1 &lt; x_2 &lt; &hellip; &lt; x_{n-1} &lt; x_n = b$.</p>
 
-<h2 id="инъекция-сюръекция-биекция">Инъекция, сюръекция, биекция</h2>
+<p>Введём тогда два набора значений:</p>
 
 <ul>
-<li><strong>Инъекция</strong> (вложение) &mdash; такое отображение $f$, что $f(x_1) = f(x_2) \Leftrightarrow x_1 = x_2$, иными словами, каждому элементу области задания соответствует <em>ровно</em> один элемент области значений.</li>
-<li><strong>Сюръекция</strong> (отображение <strong><em>на</em></strong> множество) &mdash; такое отображение $f$, что $\forall x \in E(f) \text{ }\exists y \in D(f): y = f(x)$, иными словами, каждому элементу области значений соответствует <em>хотя бы</em> один элемент области задания.</li>
-<li><strong>Биекция</strong> (взаимнооднозначное отображение) &mdash; отображение, являющееся и  сюръекцией, и инъекцией.
-<br /></li>
+<li>$\{m_i\}_{i=1}^n$, где каждое $m_i := inf_{[x_{i-1};x_i]} f$ &ndash; <a href="No page found with path or logical name "1sem/data/sup_inf.md".
+">инфинум</a> функции $f$ на промежутке $[x_{i-1};x_i]$;</li>
+<li>$\{M_i\}_{i=1}^n$, где каждое $M_i := sup_{[x_{i-1};x_i]} f$ &ndash; <a href="No page found with path or logical name "1sem/data/sup_inf.md".
+">супремум</a> функции $f$ на промежутке $[x_{i-1};x_i]$.</li>
 </ul>
 
-<h2 id="композиция">Композиция</h2>
+<p>В простейшем случае, это наименьшие и набольшие значения на соответствующих промежутках разбиения $\{x_i\}$.</p>
 
-<p>Композиция &ndash; применение одной функции $f$ к результату другой функции $g$, обозначается $f \circ g$.</p>
+<p>Теперь мы можем определить нижнюю и верхнюю сумму Дарбу следующим образом:</p>
 
 <ul>
-<li>Композиция не коммутативна &ndash; если $f(x) = x^2$, $g(x) = 2*x$, тогда $f \circ g (x) = 4*x^2$, а $g \circ f (x) = 2*x^2$</li>
-<li>Композиция ассоциативна &ndash;  $(f \circ g) \circ h = f \circ (g \circ h)$</li>
-<li>Если $f = id$ (тождественное отображение, отображающее каждый элемент в себя самого), то $g \circ f = g$.</li>
+<li>Нижняя сумма $s := \sum_{i=1}^{n} \left( m_i * (x_i - x_{i-1}) \right)$</li>
+<li>Верхняя сумма $S := \sum_{i=1}^{n} \left( M_i * (x_i - x_{i-1}) \right)$</li>
 </ul>
 
-<h2 id="обратное-отображение">Обратное отображение</h2>
+<h2 id="свойства-сумм-дарбу">Свойства сумм Дарбу</h2>
 
-<p>Обратное отображение к функции $f$ обозначают $f^{-1}$. Это такое отображение, что $f \circ f^{-1} = f^{-1} \circ f = id$.</p>
+<div class="admonition note">
+<p style="font-size: 16px;"><i class="fa fa-smile-o" aria-hidden="true"></i> На этой паре был интересный анекдот <a href="/stories/#NdPQJPolg5s">про девушку, которая плохо слышит</a></p>
+</div>
 
 
 			<footer>
@@ -351,7 +350,7 @@
 <nav class="pagination" aria-label="Footer">
 	<div class="previous">
 	
-		 <a href="/1sem/data/bradobrei" title="">  
+		 <a href="/2sem/data/integral_riman" title="">  
 		<span class="direction">
 			Назад
 		</span>
@@ -375,8 +374,6 @@
 					
 				
 					
-						Парадокс Рассела 
-					
 				
 					
 				
@@ -388,6 +385,8 @@
 				
 					
 				
+					
+						Интеграл по Риману 
 					
 				
 					
@@ -421,7 +420,7 @@
 
   <div class="next">
   
-      
+       <a href="/2sem/data/riman_eq_darbu" title=""> 
         <span class="direction">
 			Далее
         </span>
@@ -429,7 +428,55 @@
           <div class="stretch">
             <div class="title">
 			
-				&#x5a;&#x338;&#x355;&#x34e;&#x318;&#x34d;&#x34d;&#x41;&#x335;&#x326;&#x320;&#x33c;&#x327;&#x324;&#x322;&#x355;&#x31c;&#x32a;&#x33b;&#x33b;&#x34e;&#x4c;&#x338;&#x31c;&#x354;&#x356;&#x319;&#x318;&#x33b;&#x32a;&#x34e;&#x322;&#x354;&#x47;&#x338;&#x32b;&#x321;&#x33b;&#x32a;&#x329;&#x318;&#x330;&#x348;&#x347;&#x4f;&#x334;&#x326;&#x348;&#x333;&#x34d;&#x330;&#x322;&#x31f;&#x353;&#x359;&#x332;&#x318; &#x337;&#x347;&#x32a;&#x32e;&#x48;&#x334;&#x353;&#x333;&#x32d;&#x327;&#x328;&#x33c;&#x322;&#x45;&#x334;&#x32a;&#x355;&#x345;&#x316;&#x31f;&#x330;&#x330;&#x321;&#x32a;&#x31d;&#x31c;&#x322;&#x321;сессия  &#x337;&#x35c;&#x32d;&#x356;&#x349;&#x31c;&#x323;&#x331;&#x317;&#x43;&#x334;&#x33c;&#x349;&#x322;&#x339;&#x32f;&#x31d;&#x317;&#x356;&#x32f;&#x319;&#x318;&#x32a;&#x33c;&#x33c;&#x32a;&#x4f;&#x338;&#x317;&#x4d;&#x335;&#x316;&#x32d;&#x33b;&#x333;&#x355;&#x34e;&#x339;&#x45;&#x338;&#x332;&#x329;&#x326;&#x53;&#x336;&#x35c;&#x317;&#x339;&#x31c;&#x33c;&#x319;&#x331;&#x345;&#x349;&#x345;&#x339;&#x332;
+				
+				
+					
+				
+				
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+				
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+						Теорема об эквивалентности определений Римана и Дарбу 
+					
+				
+				
+				
+					
+				
+				
+				
+					
+				
+				
+				
+					
+				
+				
+				
+					
+				
+				
 			
             </div>
           </div>
@@ -437,7 +484,7 @@
             <i class="icon icon-forward"></i>
           </div>
         </div>
-      
+       </a> 
   
   </div>
 </nav>

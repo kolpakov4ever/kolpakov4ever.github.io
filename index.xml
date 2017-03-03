@@ -72,6 +72,30 @@
 &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+&lt;div class=&#34;video&#34; &gt;
+&lt;div width=0 height=0 style=&#34;position: relative; top: -64px;&#34; id=&#39;RlWqnYKLB1M&#39;&gt;&lt;/div&gt; 
+&lt;div class=&#34;title&#34;&gt;Аршавин и Кержаков&lt;/div&gt;
+&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=320px height=192.5px src=&#39;http://www.youtube.com/embed/RlWqnYKLB1M&#39; allowfullscreen frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;video&#34; &gt;
+&lt;div width=0 height=0 style=&#34;position: relative; top: -64px;&#34; id=&#39;EIGOmIs-9OA&#39;&gt;&lt;/div&gt; 
+&lt;div class=&#34;title&#34;&gt;ММИ: все девушки - блондинки&lt;/div&gt;
+&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=320px height=192.5px src=&#39;http://www.youtube.com/embed/EIGOmIs-9OA&#39; allowfullscreen frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;video&#34; &gt;
+&lt;div width=0 height=0 style=&#34;position: relative; top: -64px;&#34; id=&#39;PEyNvz5H_ho&#39;&gt;&lt;/div&gt; 
+&lt;div class=&#34;title&#34;&gt;О рабстве, людях и компьютерах&lt;/div&gt;
+&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=320px height=192.5px src=&#39;http://www.youtube.com/embed/PEyNvz5H_ho&#39; allowfullscreen frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
@@ -175,7 +199,7 @@
 
 &lt;h2 id=&#34;почему-именно-колпаков-есть-же-тубольцев-солнышкин-и-другие&#34;&gt;Почему именно Колпаков? Есть же Тубольцев, Солнышкин и другие&lt;/h2&gt;
 
-&lt;p&gt;На самом деле, по мере возможностей мы стараемся публиковать все материалы для изучения матанализа. Те из них, которые не были даны, проверены или рекомендованы Колпаковым имеют соответствующую пометку вверху страницы. Особое же отношение к Колпакову объясняется &lt;a href=&#34;http://lurkmore.to/Синдром_утёнка&#34;&gt;личным отношением&lt;/a&gt; редакции сайта &amp;mdash; нам нравится его методы преподавания, его подача, его отношение к студентам. Мы благодарны Андрею Сергеевичу за то, что он делает для нас.&lt;/p&gt;
+&lt;p&gt;На самом деле, по мере возможностей мы стараемся публиковать все материалы для изучения матанализа. Те из них, которые не были даны, проверены или рекомендованы Колпаковым имеют соответствующую пометку вверху страницы. Особое же отношение к Колпакову объясняется &lt;a href=&#34;http://lurkmore.to/Синдром_утёнка&#34;&gt;личным отношением&lt;/a&gt; редакции сайта &amp;mdash; нам нравится его методы преподавания, его подача, его отношение к студентам. Мы благодарны Андрею Сергеевичу за работу, которую он делает.&lt;/p&gt;
 
 &lt;h2 id=&#34;только-сухие-конспекты-и-ничего-больше-c&#34;&gt;Только сухие конспекты и ничего больше? :c&lt;/h2&gt;
 
@@ -209,10 +233,8 @@
 &lt;!--&lt;div class=&#34;admonition note&#34;&gt;
 &lt;p style=&#34;font-size: 16px;&#34;&gt;&lt;i class=&#34;fa fa-info-circle&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Обратите внимание, что на сайте также &lt;a href=&#34;http://kolpakov.spb.ru/2sem/discret/&#34;&gt;выложены&lt;/a&gt; конспекты по предмету &amp;laquo;Дискретная математика&amp;raquo;&lt;/p&gt;
 &lt;/div&gt; 
-- [Определение интеграла по Дарбу](No page found with path or logical name &#34;2sem/data/integral_darbu.md&#34;.
-)
-- [Эквивалентность определений по Риману и по Дарбу](No page found with path or logical name &#34;2sem/data/riman_eq_darbu.md&#34;.
-)--&gt;
+- [Определение интеграла по Дарбу](/2sem/data/integral_darbu/)
+- [Эквивалентность определений по Риману и по Дарбу](/2sem/data/riman_eq_darbu/)--&gt;
 
 &lt;h2 id=&#34;конспекты-лекций&#34;&gt;Конспекты лекций&lt;/h2&gt;
 
@@ -281,6 +303,84 @@
     </item>
     
     <item>
+      <title>Поиск</title>
+      <link>http://kolpakov.spb.ru/search/</link>
+      <pubDate>Sun, 14 Feb 2016 16:11:58 +0530</pubDate>
+      
+      <guid>http://kolpakov.spb.ru/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Увеличение числа в p-ичной системе на единицу</title>
+      <link>http://kolpakov.spb.ru/2sem/discret/dz1/</link>
+      <pubDate>Sun, 14 Feb 2016 16:11:58 +0530</pubDate>
+      
+      <guid>http://kolpakov.spb.ru/2sem/discret/dz1/</guid>
+      <description>&lt;style&gt;
+.gist{
+width: 50%;
+}
+&lt;/style&gt;
+&lt;script src=&#34;https://gist.github.com/DoKel/85eeab2d60b2f56da0caf700f4430497.js&#34;&gt;&lt;/script&gt;
+&lt;style&gt;
+    .tblCalc{
+        border:1px solid gray;
+        margin:0;
+        padding:0;
+        width:250px;
+    }
+    .tblCalc input{
+        border:1px solid gray;
+        width:30px;
+        margin:4px;
+    }
+    #pinput{
+        width:250px;
+    }
+    #ainput{
+        width:250px;
+    }
+    #incbutton{
+        width:250px;
+    }
+    i {
+        font-size: 0.85em ;
+    }
+&lt;/style&gt;
+
+&lt;p&gt;В скрипте нет защиты &amp;laquo;от дурака&amp;raquo;, это просто proof-of-concept предоставленного алгоритма.&lt;/p&gt;
+
+&lt;div align=&#34;center&#34; width=&#34;100%&#34;&gt;
+&lt;form name=&#34;dz1table&#34; action=&#34;&#34;&gt;
+     &lt;table class=&#34;tblCalc&#34; cellpadding=0 cellspacing=0&gt;
+     &lt;tr&gt;
+         &lt;td colspan=5 align=middle style=&#34;text-align: center;&#34;&gt;
+            &lt;label for=&#34;pinput&#34;&gt;Система счисления &lt;br&gt;&lt;i&gt;(в шестнадцатеричном виде)&lt;/i&gt;&lt;/label&gt;
+            &lt;input id=&#34;pinput&#34; name=&#34;pinput&#34; type=&#34;Text&#34;
+                size=28 value=&#34;A1&#34; width=&#34;250px&#34;&gt;
+         &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+         &lt;td colspan=5 align=middle style=&#34;text-align: center;&#34;&gt;
+            &lt;label for=&#34;ainput&#34;&gt;Число для увеличения&lt;br&gt;&lt;i&gt;в виде (a[n])...(a[1])(a[0])&lt;br&gt;цифры тоже в 16-тиричной системе&lt;/i&gt;&lt;/label&gt;
+            &lt;input id=&#34;ainput&#34; name=&#34;ainput&#34; type=&#34;Text&#34;
+                size=28 value=&#34;(A0)(7B)(12)&#34; width=&#34;250px&#34;&gt;
+         &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+         &lt;td colspan=&#34;3&#34; align=middle&gt;&lt;input id=&#34;incbutton&#34; name=&#34;incbutton&#34;
+            type=&#34;Button&#34; value=&#34;Увеличить на 1&#34; onclick=&#34;increment()&#34;&gt;&lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;/table&gt;
+&lt;/form&gt;
+&lt;/div&gt;
+
+&lt;script src=&#34;http://kolpakov.spb.ru/inner_scripts/discret/dz1.js&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Введение во множества</title>
       <link>http://kolpakov.spb.ru/1sem/data/mnozhestva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -299,7 +399,7 @@
 
 &lt;p&gt;Нельзя писать $X \in Y$ для множеств одного порядка и не любое свойство может задавать множество &amp;ndash; иллюстрацией этого является &lt;a href=&#34;http://kolpakov.spb.ru/1sem/data/bradobrei/&#34;&gt;парадокc Брадобрея&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Со строгостью математических обозначений для знаков $ \subset, \subseteq, \subsetneq $ существует некоторая неопределённость. Смотрите статью &lt;a href=&#34;No page found with path or logical name &#34;/data/wtf-wrote-here.md&#34;.
+&lt;p&gt;Со строгостью математических обозначений для знаков $ \subset, \subseteq, \subsetneq $ существует некоторая неопределённость. Смотрите статью &lt;a href=&#34;No page found with path or logical name &#34;data/wtf-wrote-here.md&#34;.
 &#34;&gt;&amp;laquo;Неопределённость математических терминов и обозначений&amp;raquo;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;операции-над-множествами&#34;&gt;Операции над множествами&lt;/h2&gt;
@@ -380,18 +480,35 @@ $$ \int_{a}^{b} f(x)dx := \lim_{\lambda \left( \{ x_k \}_{k=0}^n \right) \to 0} 
 
 &lt;p&gt;Более точное определение:&lt;/p&gt;
 
-&lt;p&gt;$$ \int_{a}^{b} f(x)dx = A :\Leftrightarrow$$
-$$ \forall \epsilon&amp;gt;0 \text{ } \exists \delta=\delta(\epsilon)&amp;gt;0 :$$
-$$\text{Для } \forall \{x_k\}_{k=1}^n \text{ такого, что } \forall k\text{ }x_k \in [a;b] \text{ и } \lambda\{x_k\} &amp;lt; \delta$$
-$$\text{И для } \forall \{\xi_k\}_{k=1}^n \text{, где } x_{k-1} \leqslant \xi_k \leqslant x_k$$
-$$\text{Верно неравенство:}$$
-$$|A -  (\sum_{i=1}^{n} f(\xi_i) (x_i - x_{i-1}))| &amp;lt; \epsilon$$&lt;/p&gt;
+&lt;p&gt;$$ \int_{a}^{b} f(x)dx = A :\Leftrightarrow$$&lt;/p&gt;
+
+&lt;p&gt;$$ \forall \epsilon&amp;gt;0 \text{ } \exists \delta=\delta(\epsilon)&amp;gt;0 :$$&lt;/p&gt;
+
+&lt;div class=&#34;longmath&#34;&gt;
+
+&lt;p&gt;$\text{Для } \forall \{x_k\}_{k=1}^n \text{ такого, что }$&lt;/p&gt;
+
+&lt;p&gt;$\forall k\text{ }x_k \in [a;b] \text{ и } \lambda\{x_k\} &amp;lt; \delta$&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;div class=&#34;longmath&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;$\text{И для } \forall \{\xi_k\}_{k=1}^n \text{, где }$&lt;/p&gt;
+
+&lt;p&gt;$x_{k-1} \leqslant \xi_k \leqslant x_k$&lt;/p&gt;
+
+&lt;p class=&#34;fullline&#34;&gt; $\text{Верно неравенство:}$ &lt;/p&gt;
+
+&lt;p&gt;$|A -  (\sum_{i=1}^{n} f(\xi_i) (x_i - x_{i-1}))| &amp;lt; \epsilon$&lt;/p&gt;
+
+&lt;/div&gt;
 
 &lt;p&gt;Интеграл и есть &lt;strong&gt;площадь фигуры под графиком на промежутке $[a;b]$&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;зачем-нужно-оснащение&#34;&gt;Зачем нужно оснащение&lt;/h2&gt;
 
-&lt;p&gt;Вероятно, этот вопрос мог заинтересовать слушателя, проходившего интегралы в школе, где в качестве оснащения выбираются для определённости всегда правые границы. Требование &amp;laquo;условие должно выполняться для любого выбранного оснащения&amp;raquo; может серьёзно усложнять работу с определением. Тем не менее, это требование необходимо, чтобы некоторые &amp;laquo;плохие&amp;raquo; функции, у которых значение суммы Римана от выбора оснащения меняется просто не имели суммы по определению. Допущение существования у них суммы может привести к парадоксальным (и неверным) выводам.&lt;/p&gt;
+&lt;p&gt;Вероятно, этот вопрос мог заинтересовать слушателя, проходившего интегралы в школе, где в качестве оснащения выбираются для определённости всегда правые границы. Требование &amp;laquo;условие должно выполняться для любого выбранного оснащения&amp;raquo; может серьёзно усложнять работу с определением. Тем не менее, это требование необходимо, чтобы некоторые &lt;a href=&#34;No page found with path or logical name &#34;data/dirichlet_function.md&#34;.
+&#34;&gt;&amp;laquo;плохие&amp;raquo; функции&lt;/a&gt;, у которых значение суммы Римана от выбора оснащения меняется, просто не имели суммы по определению. Допущение существования у них суммы может привести к парадоксальным (и неверным) выводам.&lt;/p&gt;
 
 &lt;div class=&#34;admonition note&#34;&gt;
 &lt;p style=&#34;font-size: 16px;&#34;&gt;&lt;i class=&#34;fa fa-smile-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Оставшася часть пары была посвящена рассказу историй, например &lt;a href=&#34;http://kolpakov.spb.ru/stories/#bwy2o4Adlfo&#34;&gt;про Клейна и Гильберта&lt;/a&gt;. Было весело))&lt;/p&gt;
@@ -401,16 +518,90 @@ $$|A -  (\sum_{i=1}^{n} f(\xi_i) (x_i - x_{i-1}))| &amp;lt; \epsilon$$&lt;/p&gt;
 
 &lt;p&gt;Для полной уверенности в том, что мы всё делаем верно, нужно доказать, что новое определение площади не противоречит старому, а именно &amp;ndash; с помощью определения Римана можно посчитать площадь прямоугольника, и она будет совпадать со значением, полученным по формуле &amp;laquo;длина на ширину&amp;raquo;. Данное задание предлагалось для самостоятельного решения на тесте в виде интегрирования константной функции. Ниже предлагается разбор этого задания в общем виде.&lt;/p&gt;
 
-&lt;p&gt;$$ \int_a^b C * dx = \sum_{i=1}^{n} f(\xi_i) (x_i - x_{i-1}) = (1)$$
-$$ \text{Так как } \forall x \text{ } f(x)=C $$
-$$ (1) = \sum_{i=1}^{n} C (x_i - x_{i-1}) = C * \sum_{i=1}^{n} (x_i - x_{i-1}) = (2)$$
-$$ \text{Рассмотрим полученную сумму: } \sum_{i=1}^{n} (x_i - x_{i-1}) = $$
-$$ (x_0 - x_1) + (x_1 - x_2) + &amp;hellip; + (x_{n-2} - x_{n-1}) + (x_{n-1} - x_n) = $$
-$$ (x_0 + x_1 + &amp;hellip; + x_{n-2} + x_{n-1}) - (x_1 + &amp;hellip; + x_{n-2} + x_{n-1} + x_n) = $$
-$$ x_0 + (x_1 - x_1) + &amp;hellip; + (x_{n-1} - x_{n-1}) - x_n = a - b$$
-$$ \text{ Т.е. } (2) = C * (a-b)$$&lt;/p&gt;
+&lt;div class=&#34;longmath&#34;&gt;
+
+&lt;p&gt;$ \int_a^b C * dx = $&lt;/p&gt;
+
+&lt;p&gt;$ \sum_{i=1}^{n} f(\xi_i) (x_i - x_{i-1}) = (1)$&lt;/p&gt;
+
+&lt;p class=&#34;fullline&#34;&gt;$ \text{ } \text{Так как } \forall x \text{ } f(x)=C \text{ } $&lt;/p&gt;
+
+&lt;p&gt;$ (1) = \sum_{i=1}^{n} C (x_i - x_{i-1}) = $&lt;/p&gt;
+
+&lt;p&gt;$C * \sum_{i=1}^{n} (x_i - x_{i-1}) = (2)$&lt;/p&gt;
+
+&lt;p class=&#34;fullline&#34;&gt; $ \text{ } \text{Рассмотрим полученную сумму: } $&lt;/p&gt;
+
+&lt;p&gt;$\sum_{i=1}^{n} (x_i - x_{i-1}) = $&lt;/p&gt;
+
+&lt;p&gt;$ (x_0 - x_1) $&lt;/p&gt;
+
+&lt;p&gt;$+ (x_1 - x_2) $&lt;/p&gt;
+
+&lt;p&gt;$+ &amp;hellip; + (x_{n-2} $&lt;/p&gt;
+
+&lt;p&gt;$ - x_{n-1}) + $&lt;/p&gt;
+
+&lt;p&gt;$(x_{n-1} - x_n) = $&lt;/p&gt;
+
+&lt;p&gt;$ (x_0 + x_1 + &amp;hellip; + x_{n-2} + x_{n-1}) $&lt;/p&gt;
+
+&lt;p&gt;$- (x_1 + &amp;hellip; + x_{n-2} + x_{n-1} + x_n) = $&lt;/p&gt;
+
+&lt;p&gt;$ x_0 + (x_1 - x_1)$&lt;/p&gt;
+
+&lt;p&gt;$+ &amp;hellip; + (x_{n-1} - x_{n-1}) - x_n = $&lt;/p&gt;
+
+&lt;p&gt;$a - b$&lt;/p&gt;
+
+&lt;p&gt;&lt;p class=&#34;fullline&#34;&gt; $ \text{ Т.е. } (2) = C * (a-b)$&lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;Здесь $(a-b)$ &amp;ndash; ширина прямоугольника, а $C$ &amp;ndash; его высота. Ч.Т.Д.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Интеграл по Дарбу</title>
+      <link>http://kolpakov.spb.ru/2sem/data/integral_darbu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kolpakov.spb.ru/2sem/data/integral_darbu/</guid>
+      <description>
+
+&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+
+&lt;p&gt;Вероятно, слушатель уже понял, что риманова сумма, хоть и является первым формальным определением интеграла, всё же достаточна трудна для практического использования &amp;ndash; требуемые для неё условия должны выполняться для любого оснащения $\{\xi_i\}$, коих бесчисленное множество.&lt;/p&gt;
+
+&lt;p&gt;В плане практического использования более удобным может быть определение, которое дал Дарбу &amp;ndash; по смыслу оно полностью &lt;a href=&#34;http://kolpakov.spb.ru/2sem/data/riman_eq_darbu/&#34;&gt;эквивалентно&lt;/a&gt; определению Римана, но по форме требует от нас равенства не бесчисленного множества сумм, а лишь только двух.&lt;/p&gt;
+
+&lt;h2 id=&#34;нижние-и-верхние-суммы&#34;&gt;Нижние и верхние суммы&lt;/h2&gt;
+
+&lt;p&gt;Пусть на отрезке $[a;b]$ определена функция $f(x)$, и дано разбиение $\{x_i\}_{i=0}^n $ такое, что $a = x_0 &amp;lt; x_1 &amp;lt; x_2 &amp;lt; &amp;hellip; &amp;lt; x_{n-1} &amp;lt; x_n = b$.&lt;/p&gt;
+
+&lt;p&gt;Введём тогда два набора значений:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;$\{m_i\}_{i=1}^n$, где каждое $m_i := inf_{[x_{i-1};x_i]} f$ &amp;ndash; &lt;a href=&#34;No page found with path or logical name &#34;1sem/data/sup_inf.md&#34;.
+&#34;&gt;инфинум&lt;/a&gt; функции $f$ на промежутке $[x_{i-1};x_i]$;&lt;/li&gt;
+&lt;li&gt;$\{M_i\}_{i=1}^n$, где каждое $M_i := sup_{[x_{i-1};x_i]} f$ &amp;ndash; &lt;a href=&#34;No page found with path or logical name &#34;1sem/data/sup_inf.md&#34;.
+&#34;&gt;супремум&lt;/a&gt; функции $f$ на промежутке $[x_{i-1};x_i]$.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;В простейшем случае, это наименьшие и набольшие значения на соответствующих промежутках разбиения $\{x_i\}$.&lt;/p&gt;
+
+&lt;p&gt;Теперь мы можем определить нижнюю и верхнюю сумму Дарбу следующим образом:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Нижняя сумма $s := \sum_{i=1}^{n} \left( m_i * (x_i - x_{i-1}) \right)$&lt;/li&gt;
+&lt;li&gt;Верхняя сумма $S := \sum_{i=1}^{n} \left( M_i * (x_i - x_{i-1}) \right)$&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;свойства-сумм-дарбу&#34;&gt;Свойства сумм Дарбу&lt;/h2&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p style=&#34;font-size: 16px;&#34;&gt;&lt;i class=&#34;fa fa-smile-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; На этой паре был интересный анекдот &lt;a href=&#34;http://kolpakov.spb.ru/stories/#NdPQJPolg5s&#34;&gt;про девушку, которая плохо слышит&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -447,49 +638,236 @@ $$ \text{ Т.е. } (2) = C * (a-b)$$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Отображения</title>
-      <link>http://kolpakov.spb.ru/1sem/data/otobrazhenia/</link>
+      <title>Теорема об эквивалентности определений Римана и Дарбу</title>
+      <link>http://kolpakov.spb.ru/2sem/data/riman_eq_darbu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kolpakov.spb.ru/1sem/data/otobrazhenia/</guid>
+      <guid>http://kolpakov.spb.ru/2sem/data/riman_eq_darbu/</guid>
       <description>
 
-&lt;h2 id=&#34;базовые-понятия&#34;&gt;Базовые понятия&lt;/h2&gt;
+&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Отображение&lt;/strong&gt; &amp;ndash; соответствие между элементами двух множеств, установленное по какому-либо правилу, такое, что &lt;em&gt;каждому&lt;/em&gt; элементу одного множества ставится в соответствие некоторый элемент другого.&lt;/p&gt;
+&lt;div class=&#34;admonition note&#34; style=&#34;background: #757575;&#34;&gt;
+&lt;p style=&#34;font-size: 16px; color: #424242;&#34;&gt;&lt;b&gt;//TODO&lt;/b&gt; Данная статья не была оформленна в достаточном смысле, чтобы у автора была возможность сдать его до 00:00 02/III в качестве конспекта на доп. баллы.&lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Если отображение $f$ переводит элементы множества $X$ во множество $Y$, то:&lt;/p&gt;
+&lt;h2 id=&#34;замечания-о-взаимном-расположении-интегральных-сумм&#34;&gt;Замечания о взаимном расположении интегральных сумм&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Это записывают как $f: X \rightarrow Y$.&lt;/li&gt;
-&lt;li&gt;$X$ &amp;ndash; область задания отображения, обозначается $D(f)$&lt;/li&gt;
-&lt;li&gt;$Y$ &amp;ndash; область значений отображения, обозначается $E(f)$&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Функция&lt;/strong&gt; &amp;ndash; отображение, которое совершается из некого множества во множество чисел (не общепринято, но условились использовать такое обозначение).&lt;/p&gt;
-
-&lt;h2 id=&#34;инъекция-сюръекция-биекция&#34;&gt;Инъекция, сюръекция, биекция&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Существует лишь два варианта взаимного расположения $\sup s_* $ и $\inf S^*$:
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Инъекция&lt;/strong&gt; (вложение) &amp;mdash; такое отображение $f$, что $f(x_1) = f(x_2) \Leftrightarrow x_1 = x_2$, иными словами, каждому элементу области задания соответствует &lt;em&gt;ровно&lt;/em&gt; один элемент области значений.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Сюръекция&lt;/strong&gt; (отображение &lt;strong&gt;&lt;em&gt;на&lt;/em&gt;&lt;/strong&gt; множество) &amp;mdash; такое отображение $f$, что $\forall x \in E(f) \text{ }\exists y \in D(f): y = f(x)$, иными словами, каждому элементу области значений соответствует &lt;em&gt;хотя бы&lt;/em&gt; один элемент области задания.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Биекция&lt;/strong&gt; (взаимнооднозначное отображение) &amp;mdash; отображение, являющееся и  сюръекцией, и инъекцией.
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;$\sup s_* &amp;lt; \inf S^*$ &amp;ndash; критерий Дарбу не выполнен&lt;/li&gt;
+&lt;li&gt;$\sup s_* = \inf S^*$ &amp;ndash; критерий Дарбу выполнен&lt;/li&gt;
+&lt;li&gt;Вариант $\sup s_* &amp;gt; \inf S^* $ невозможен, т.к. иначе найдётся такая пара сумм, что $s_{* (i)} = S_{(j)}^* $, а это &lt;a href=&#34;No page found with path or logical name &#34;2sem/data/integral_darbu&#34;.
+&#34;&gt;невозможно&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Для одного и того же разбиения: $\sup s_* \leqslant \Sigma_R \leqslant \inf S^* $, где $\Sigma_R$ &amp;ndash; риманова сумма&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 id=&#34;композиция&#34;&gt;Композиция&lt;/h2&gt;
+&lt;h2 id=&#34;лемма-об-эпсилон-переходе-к-критерию-дарбу&#34;&gt;Лемма об эпсилон-переходе к критерию Дарбу&lt;/h2&gt;
 
-&lt;p&gt;Композиция &amp;ndash; применение одной функции $f$ к результату другой функции $g$, обозначается $f \circ g$.&lt;/p&gt;
+&lt;h3 id=&#34;хотим-доказать&#34;&gt;Хотим доказать:&lt;/h3&gt;
+
+&lt;p&gt;Если для $\forall \varepsilon&amp;gt;0$ найдётся такое разбиение $\{x_i\}$ отрезка $[a ; b]$, что
+$$S^*\{x_i\} - s_*\{x_i\}| &amp;lt; \varepsilon$$
+где $s_*$ и $S^*$ &amp;ndash; нижняя и верхняя сумма Дарбу по заданной функции, то критерий Дарбу выполнен.&lt;/p&gt;
+
+&lt;div class=&#34;admonition note&#34; style=&#34;background: #757575;&#34;&gt;
+&lt;p style=&#34;font-size: 16px; color: #424242;&#34;&gt;&lt;b&gt;//TODO&lt;/b&gt; Это очень важная лемма, но на лекции следствие &amp;laquo;Риман -&amp;gt; Дарбу&amp;raquo; доказывалось с опорой на неё, но без явного доказательства. Будет добавлена позже.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;риман-дарбу&#34;&gt;Риман -&amp;gt; Дарбу&lt;/h2&gt;
+
+&lt;h3 id=&#34;имеем&#34;&gt;Имеем:&lt;/h3&gt;
+
+&lt;p&gt;По определению Римана $ \forall \varepsilon_0&amp;gt;0\text{ } \exists$ такое разбиение $\{x_i\}_{k=1}^n$, что&lt;/p&gt;
+
+&lt;div class=&#34;longmath&#34;&gt;
+
+&lt;p&gt;$\text{Для } \forall \{\xi_k\}_{k=1}^n \text{, где }$&lt;/p&gt;
+
+&lt;p&gt;$x_{k-1} \leqslant \xi_k \leqslant x_k$&lt;/p&gt;
+
+&lt;p class=&#34;fullline&#34;&gt; $\text{Верно неравенство:}$ &lt;/p&gt;
+
+&lt;p&gt;$|A -  (\sum_{i=1}^{n} f(\xi_i) (x_i - x_{i-1}))| &amp;lt; \varepsilon_0$&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h3 id=&#34;хотим-доказать-1&#34;&gt;Хотим доказать:&lt;/h3&gt;
+
+&lt;p&gt;Для любого $\varepsilon &amp;gt; 0$ найдётся такое разбиение $\{\eta_i\}$, что $S^* \{\eta_i\} - s_* \{\eta_i\} &amp;lt; \varepsilon$.&lt;/p&gt;
+
+&lt;p&gt;Более того, мы утверждаем, что это и будет разбиение $\{x_i\}_{k=1}^n$.&lt;/p&gt;
+
+&lt;h3 id=&#34;итак&#34;&gt;Итак,&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Композиция не коммутативна &amp;ndash; если $f(x) = x^2$, $g(x) = 2*x$, тогда $f \circ g (x) = 4*x^2$, а $g \circ f (x) = 2*x^2$&lt;/li&gt;
-&lt;li&gt;Композиция ассоциативна &amp;ndash;  $(f \circ g) \circ h = f \circ (g \circ h)$&lt;/li&gt;
-&lt;li&gt;Если $f = id$ (тождественное отображение, отображающее каждый элемент в себя самого), то $g \circ f = g$.&lt;/li&gt;
+&lt;li&gt;Фиксируем $\varepsilon$&lt;/li&gt;
+&lt;li&gt;Выбираем $\varepsilon_0 := \varepsilon/4$&lt;/li&gt;
+&lt;li&gt;Условия интегрируемости Римана выполняются для любого оснащения. Выберем на каждом промежутке $[x_{i-1}; x_i]$
+
+&lt;ul&gt;
+&lt;li&gt;Такое $\xi_i$, что $\xi_i &amp;lt; m_i + \frac{\varepsilon_0 }{b-a}$, где $m_i = \inf f$ на данном промежутке&lt;/li&gt;
+&lt;li&gt;Такое $\zeta_i$, что $\zeta_i &amp;gt; M_i - \frac{\varepsilon_0 }{b-a}$б где $M_i = \sup f$ на данном промежутке&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;обратное-отображение&#34;&gt;Обратное отображение&lt;/h2&gt;
+&lt;p&gt;Такие точки существуют по свойству точных граней (которое легко доказывается от противного).&lt;/p&gt;
 
-&lt;p&gt;Обратное отображение к функции $f$ обозначают $f^{-1}$. Это такое отображение, что $f \circ f^{-1} = f^{-1} \circ f = id$.&lt;/p&gt;
+&lt;div class=&#34;admonition note&#34; style=&#34;background: #757575;&#34;&gt;
+&lt;p style=&#34;font-size: 16px; color: #424242;&#34;&gt;&lt;b&gt;//TODO&lt;/b&gt; В этом месте должна быть ссылка на &lt;a href=&#34;No page found with path or logical name &amp;quot;1sem/data/sup_inf.md&amp;quot;.&#34;&gt;конспект по точным граням&lt;/a&gt;, который ещё не оформлен.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Тогда&lt;/p&gt;
+
+&lt;div class=&#34;longmath&#34;&gt;
+
+&lt;p&gt;$\sum_{i=1}^{n} f(\xi_i) (x_i - x_{i-1}) &amp;lt; $&lt;/p&gt;
+
+&lt;p&gt;$\sum_{i=1}^{n} m_i (x_i - x_{i-1}) + $&lt;/p&gt;
+
+&lt;p&gt;$\frac{\varepsilon_0 }{b-a} \sum_{i=1}^{n}(x_i - x_{i-1})$
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;div class=&#34;longmath&#34;&gt;
+
+&lt;p&gt;$\sum_{i=1}^{n} f(\xi_i) (x_i - x_{i-1}) &amp;lt; $&lt;/p&gt;
+
+&lt;p&gt;$s_* \{x_i\} + \varepsilon_0 $
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;С другой стороны&lt;/p&gt;
+
+&lt;div class=&#34;longmath&#34;&gt;
+
+&lt;p&gt;$\sum_{i=1}^{n} f(\zeta_i) (x_i - x_{i-1}) &amp;gt; $&lt;/p&gt;
+
+&lt;p&gt;$\sum_{i=1}^{n} M_i (x_i - x_{i-1}) - $&lt;/p&gt;
+
+&lt;p&gt;$\frac{\varepsilon_0 }{b-a} \sum_{i=1}^{n}(x_i - x_{i-1})$&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&#34;longmath&#34;&gt;
+
+&lt;p&gt;$\sum_{i=1}^{n} f(\xi_i) (x_i - x_{i-1}) &amp;gt; $&lt;/p&gt;
+
+&lt;p&gt;$S^* \{x_i\} - \varepsilon_0 $&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Обозначим римановую сумму по $\xi$ за $R_\xi$, а по $\zeta$ за $R_\zeta$, и сложим два неравенства:
+$$R_\xi + S^* \{x_i\} - \varepsilon_0  &amp;lt; R_\zeta + s_* \{x_i\} + \varepsilon_0 $$
+$$ S^* \{x_i\} - s_* \{x_i\} &amp;lt; R_\zeta - R_\xi + 2\varepsilon_0 $$&lt;/p&gt;
+
+&lt;p&gt;Т.к.
+$$|A -  R_\xi| &amp;lt; \epsilon_0$$
+$$|A -  R_\zeta| &amp;lt; \epsilon_0$$
+Очевидно
+$$|R_\xi - R_\zeta| &amp;lt; 2\epsilon_0$$
+$$ -2 \epsilon_0 &amp;lt; R_\xi - R_\zeta &amp;lt; 2 \epsilon_0$$&lt;/p&gt;
+
+&lt;p&gt;Отсюда
+$$S^* \{x_i\} - s_* \{x_i\} &amp;lt; 4\varepsilon_0$$
+$$S^* \{x_i\} - s_* \{x_i\} &amp;lt; \varepsilon$$&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ч.Т.Д. █&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;лемма-о-достаточной-мелкости&#34;&gt;Лемма о достаточной мелкости&lt;/h2&gt;
+
+&lt;div class=&#34;admonition note&#34; style=&#34;background: #757575;&#34;&gt;
+&lt;p style=&#34;font-size: 16px; color: #424242;&#34;&gt;&lt;b&gt;//TODO&lt;/b&gt; Данный раздел очень сложен для понимания без рисунков. Мы недеемся, что скоро &lt;a href=&#34;https://vk.com/chigchirik&#34;&gt;наш художник&lt;/a&gt; вернётся к работе и нарисует всё, что только можно. Пока же приходится довольствоваться тем, что есть ;c&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;имеем-1&#34;&gt;Имеем:&lt;/h3&gt;
+
+&lt;p&gt;$$\sup s_* = \inf S^* = A$$&lt;/p&gt;
+
+&lt;h3 id=&#34;хотим-доказать-2&#34;&gt;Хотим доказать:&lt;/h3&gt;
+
+&lt;p&gt;$ \forall \varepsilon &amp;gt; 0 \text{ } \exists \delta &amp;gt; 0$, что лишь только для разбиения $\{\psi_i\}$ выполнено $\lambda \{\psi_i\} &amp;lt; \delta $, так сразу $A - s_* \{\psi_i\} &amp;lt; \varepsilon $ и $S^* \{\psi_i\} - A &amp;lt; \varepsilon$. Для этого необходимо найти зависимость $\delta = \delta(\varepsilon)$&lt;/p&gt;
+
+&lt;h3 id=&#34;итак-1&#34;&gt;Итак,&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Заметим &amp;ndash; существует хотябы одно разбиение $\{x_i\}$, для которого верхняя и нижняя суммы попадают в эпсилон-окрестность $A$. Это следует из свойств точных граней.&lt;/li&gt;
+&lt;li&gt;Обозначим $p_0 := s_* \{x_i\} - (A-\varepsilon)$ и $P_0 := (A+\varepsilon) - S^* \{x_i\} $ &amp;ndash; расстояния от сумм этого разбиения до границ эпсилон-окрестности&lt;/li&gt;
+&lt;li&gt;Для инфинумов и супремумов введём классические обозначения &amp;ndash; $m_i^{(x)}$ и $M_i^{(x)}$&lt;/li&gt;
+&lt;li&gt;Пусть нам теперь дано разбиение $\{y_i\}_{i=0}^N$. Для его инфинумов и супремумов введём обозначения $m_i^{(y)}$ и $M_i^{(y)}$. Рассмотрим k-й его промежуток этого разбиения:
+
+&lt;ul&gt;
+&lt;li&gt;Если $[y_{k-1}; y_k]$ целиком $\in [x_{i-1}; x_i]$, то $m_k^{(y)} \geqslant m_i^{(x)}$. В самом деле, если предположить обратное, то $m_i^{(x)}$ перестанет быть инфинумом всего большего промежутка. В свою очередь, $M_k^{(y)} \leqslant M_i^{(x)}$. Наличие таких промежутков не может уменьшить нижнюю сумму $\{y_i\}$ или увеличить верхнюю относительно сумм разбиения $\{x_i\}$.&lt;/li&gt;
+&lt;li&gt;В другом же случае отрезок $[y_{k-1}; y_k]$ пересекается с несколькими промежутками разбиения по $x$. Для простоты озаботимся тем, чтобы $[y_{k-1}; y_k]$ не мог содержать в себе ни один промежуток разбиения по $x$ целиком &amp;ndash; пусть $\lambda \{y_i\} &amp;lt; \delta &amp;lt; \max_{i=1}^n (x_i - x_{i-1})$. Теперь мы знаем, что $[y_{k-1}; y_k]$ включает в себя лишь одну точку начального разбиения &amp;ndash; $x_j$. Тогда
+$$m_k^{(y)} \geqslant \min (m_j^{(x)}, m_{j+1}^{(x)})$$
+$$M_k^{(y)} \leqslant \min (M_j^{(x)}, M_{j+1}^{(x)})$$&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Заметим, что это значит, что на одном из промежутков $[y_{k-1}; x_j]$ или $[x_j; y_k]$ значение инфинума понизилось, и на каком-то значение супремума возросло. Это нежелательное для нас поведение &amp;ndash; мы не хотим, чтобы было $p:= s_* \{x_i\} - s_* \{y_i\} \geqslant p_0$ или $P: = S^* \{y_i\} - S^* \{x_i\} \geqslant P_0$, т.к. тогда суммы разбиения $\{y_i\}$ перестанут принадлежать нужной эпсилон-окрестности. К счастью, &amp;laquo;потери&amp;raquo; для на k-м промежутке&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Для нижних сумм: $p_k \leqslant (y_k - y_{k-1}) * \Delta_k^{inf}$, где $\Delta_k^{inf} := |m_j^{(x)} - m_{j+1}^{(x)}|$
+
+&lt;ul&gt;
+&lt;li&gt;Т.к. $ (y_k - y_{k-1}) \leqslant \delta$, общие потери $p \leqslant \delta \sum_{i=1}^{n-1} \Delta_k^{inf}$. Мы хотим $p &amp;lt; p_0$, тогда $\delta &amp;lt; \delta_1 &amp;lt; \frac{p_0}{\sum_{i=1}^{n-1} \Delta_k^{inf}}$&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Для верхних сумм: $P_k \leqslant (y_k - y_{k-1}) * \Delta_k^{sup}$, где $\Delta_k^{sup} := |M_j^{(x)} - M_{j+1}^{(x)}|$
+
+&lt;ul&gt;
+&lt;li&gt;Т.к. $ (y_k - y_{k-1}) \leqslant \delta$, общие потери $P \leqslant \delta \sum_{i=1}^{n-1} \Delta_k^{sup}$. Мы хотим $P &amp;lt; P_0$, тогда $\delta &amp;lt; \delta_2 &amp;lt; \frac{P_0}{\sum_{i=1}^{n-1} \Delta_k^{sup}}$&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Таким образом, искомая дельта:&lt;/p&gt;
+
+&lt;div class=&#34;longmath&#34;&gt;
+
+&lt;p&gt;$$ \delta := \frac{1}{\pi} \min \{$$&lt;/p&gt;
+
+&lt;p&gt;$$\frac{s_* \{x_i\} - (A-\varepsilon)}{\sum_{i=1}^{n-1} |m_i^{(x)} - m_{i+1}^{(x)}|}$$&lt;/p&gt;
+
+&lt;p&gt;$$\text{ ;; }$$&lt;/p&gt;
+
+&lt;p&gt;$$\frac{(A+\varepsilon) - S^* \{x_i\}}{\sum_{i=1}^{n-1} |M_i^{(x)} - M_{i+1}^{(x)}|}$$&lt;/p&gt;
+
+&lt;p&gt;$$\text{ ;; }$$&lt;/p&gt;
+
+&lt;p&gt;$$\max_{i=1}^n (x_i - x_{i-1})$$&lt;/p&gt;
+
+&lt;p&gt;$$\}$$
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Где разбиение $\{x_i\}$ также зависит от $\varepsilon$. Деление на $\pi$ &amp;ndash; т.к. нам необходимо число меньшее, чем значение минимума.&lt;/p&gt;
+
+&lt;h2 id=&#34;дарбу-риман&#34;&gt;Дарбу -&amp;gt; Риман&lt;/h2&gt;
+
+&lt;h3 id=&#34;имеем-2&#34;&gt;Имеем:&lt;/h3&gt;
+
+&lt;p&gt;$$\sup s_* = \inf S^* = A$$&lt;/p&gt;
+
+&lt;h3 id=&#34;хотим-доказать-3&#34;&gt;Хотим доказать:&lt;/h3&gt;
+
+&lt;p&gt;$$ \forall \varepsilon&amp;gt;0\text{ } \exists \text{ } \exists \delta=\delta(\varepsilon)&amp;gt;0 :$$&lt;/p&gt;
+
+&lt;div class=&#34;longmath&#34;&gt;
+
+&lt;p&gt;$\text{Для } \forall \{\xi_k\}_{k=1}^n \text{, где }$&lt;/p&gt;
+
+&lt;p&gt;$x_{k-1} \leqslant \xi_k \leqslant x_k$&lt;/p&gt;
+
+&lt;p class=&#34;fullline&#34;&gt; $\text{Верно неравенство:}$ &lt;/p&gt;
+
+&lt;p&gt;$|A -  (\sum_{i=1}^{n} f(\xi_i) (x_i - x_{i-1}))| &amp;lt; \varepsilon_0$&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+
+&lt;div class=&#34;admonition note&#34; style=&#34;background: #757575;&#34;&gt;
+&lt;p style=&#34;font-size: 16px; color: #424242;&#34;&gt;&lt;b&gt;//TODO&lt;/b&gt; &lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     
