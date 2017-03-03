@@ -90,7 +90,8 @@ width: 50%;
 
 &lt;p&gt;В скрипте нет защиты &amp;laquo;от дурака&amp;raquo;, это просто proof-of-concept предоставленного алгоритма.&lt;/p&gt;
 
-&lt;p&gt;&lt;form name=&#34;dz1table&#34; action=&#34;&#34;&gt;
+&lt;div align=&#34;center&#34; width=&#34;100%&#34;&gt;
+&lt;form name=&#34;dz1table&#34; action=&#34;&#34;&gt;
      &lt;table class=&#34;tblCalc&#34; cellpadding=0 cellspacing=0&gt;
      &lt;tr&gt;
          &lt;td colspan=5 align=middle style=&#34;text-align: center;&#34;&gt;
@@ -101,7 +102,7 @@ width: 50%;
      &lt;/tr&gt;
      &lt;tr&gt;
          &lt;td colspan=5 align=middle style=&#34;text-align: center;&#34;&gt;
-            &lt;label for=&#34;ainput&#34;&gt;Число для увеличения&lt;br&gt;&lt;i&gt;в виде (a[n])&amp;hellip;(a[1])(a[0])&lt;br&gt;цифры тоже в 16-тиричной системе&lt;/i&gt;&lt;/label&gt;
+            &lt;label for=&#34;ainput&#34;&gt;Число для увеличения&lt;br&gt;&lt;i&gt;в виде (a[n])...(a[1])(a[0])&lt;br&gt;цифры тоже в 16-тиричной системе&lt;/i&gt;&lt;/label&gt;
             &lt;input id=&#34;ainput&#34; name=&#34;ainput&#34; type=&#34;Text&#34;
                 size=28 value=&#34;(A0)(7B)(12)&#34; width=&#34;250px&#34;&gt;
          &lt;/td&gt;
@@ -112,7 +113,7 @@ width: 50%;
      &lt;/tr&gt;
      &lt;/table&gt;
 &lt;/form&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;script src=&#34;http://kolpakov.spb.ru/inner_scripts/discret/dz1.js&#34;&gt;&lt;/script&gt;
 </description>
